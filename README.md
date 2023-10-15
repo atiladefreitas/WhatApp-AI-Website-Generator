@@ -4,7 +4,9 @@
 
 > FOR SECURITY REASONS AND TO PRESERVE THE COMPANY, THE .env WILL NOT BE MADE AVAILABLE
 
-### About the project
+> I prepared a _.json_ file with mock data so that I can run the project locally.
+
+## About the project 🐦
 
 The Gaio Web project emerged from the ideas of [Bernardo Rodela](https://www.linkedin.com/in/bernardo-rodela-a14b49193/) and [Marcos Varotti](https://www.linkedin.com/in/marcosvarottifilho/), and in February 2023 they found me to get the idea off the ground.
 
@@ -14,11 +16,11 @@ With half a dozen messages exchanged with our Bot via WhatsApp, in less than 5 m
 
 Gaio generated more than **15.000** websites in 7 months of projects, and transformed the lives of hundreds of professionals by allowing them to position themselves digitally.
 
-### Achievements
+## Achievements 🏆
 
 After having created 10 thousand websites, we joined [Microsoft for Startups](https://www.microsoft.com/en-us/startups) and were awarded **USD 150.000,00** in Microsft services (OpenAI credits, MongoDB, Azure)
 
-### Built With
+## Built With
 
 - [ReactJS](https://react.dev/) with [Typescript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en)
@@ -30,7 +32,7 @@ After having created 10 thousand websites, we joined [Microsoft for Startups](ht
 - [Unsplash](https://unsplash.com/)
 - [ManyChat](https://manychat.com/)
 
-### How it works?
+## How it works? ⚙️
 
 Our ChatBot was built using the low-code automation platform called ManyChat. For our website generator to work well, we divided all the creation steps into 6 questions:
 
@@ -60,4 +62,54 @@ After paying the BRL 30,00 fee, you will have access to the editing form, where 
 - Change color palette;
 - etc.
 
-### Demonstration video
+---
+
+# ▶️ [Demonstration video](https://youtu.be/gXhPfx4mkTM)
+
+## Getting Started
+
+### Frontend:
+
+#### Installation:
+
+```sh
+cd Front && npm install
+```
+
+#### Running:
+
+```sh
+npm run dev
+```
+
+### Backend:
+
+#### Installation:
+
+```sh
+cd Api && npm install
+```
+
+#### Running:
+
+```sh
+npn run dev
+```
+
+---
+
+<div align="center">
+
+<img src="./assets/banner.png" width="900">
+</br>
+</br>
+<p align="center">
+<a href="https://www.linkedin.com/in/atilafreitas/"><img src="./assets/Linkedin.png"height="45em"/></a>
+    &nbsp;
+    <a href="https://t.me/atilajcfreitas"><img src="./assets/Telegram.png"height="45em"/></a>
+    &nbsp;
+    <a href="mailto:contact@atiladefreitas.com"><img src="./assets/E-mail.png" height="45em"/></a>
+    &nbsp;
+    <a href="https://github.com/atiladefreitas"><img src="./assets/Github.png"height="45em"/></a>
+</p>
+</div>
