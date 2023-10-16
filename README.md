@@ -20,7 +20,7 @@ Gaio generated more than **15.000** websites in 7 months of projects, and transf
 
 After having created 10 thousand websites, we joined [Microsoft for Startups](https://www.microsoft.com/en-us/startups) and were awarded **USD 150.000,00** in Microsft services (OpenAI credits, MongoDB, Azure)
 
-## Built With
+## Built With 🔨
 
 - [ReactJS](https://react.dev/) with [Typescript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en)
