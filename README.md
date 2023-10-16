@@ -2,9 +2,11 @@
 
 > THIS REPOSITORY WILL BE PRIVATED AFTER EVALUATION BY LAUNCHCODE
 
-> FOR SECURITY REASONS AND TO PRESERVE THE COMPANY, THE .env WILL NOT BE MADE AVAILABLE
+> FOR SECURITY REASONS AND TO PRESERVE THE COMPANY, THE .env WILL NOT BE AVAILABLE
 
-> I prepared a _.json_ file with mock data so that you can run the project locally.
+> I prepared a file with mock data so that you can run the project locally.
+
+Everything you will see was done by working for an hour and a half for ten days, enjoy 
 
 ## About the project 🐦
 
