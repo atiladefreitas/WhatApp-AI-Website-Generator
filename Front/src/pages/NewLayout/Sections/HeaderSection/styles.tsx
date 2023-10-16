@@ -8,7 +8,7 @@ export const Container = styled.header<IHeaderProps>`
   width: 100%;
   min-height: 5rem;
   height: fit-content;
-  background-color: ${props => props.bgColor || 'white'};
+  background-color: ${(props) => props.bgColor || 'white'};
   display: flex;
   align-items: center;
   padding-top: 1rem;
@@ -38,6 +38,7 @@ export const Container = styled.header<IHeaderProps>`
     padding-left: 1rem;
     padding-right: 1rem;
     gap: 0.675rem;
+    text-decoration: none;
 
     & i {
       display: flex;
@@ -54,7 +55,7 @@ export const Container = styled.header<IHeaderProps>`
       font-weight: bold;
       letter-spacing: 0.5px;
       font-size: 20px;
-      color: rgb(5,55,124);
+      color: rgb(5, 55, 124);
       text-decoration: none;
 
       :hover {
