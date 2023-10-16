@@ -62,9 +62,22 @@ After paying the BRL 30,00 fee, you will have access to the editing form, where 
 - Change color palette;
 - etc.
 
+## Showcases 🏅
+
+Here is a list of sites that made success:
+
+- [Voou Viagens](https://voouviagens.com/) 🇧🇷
+- [Green Lush Corp](https://greenlushcorp.com/) 🇺🇸
+- [As Rainhas do Excel](https://asrainhasdoexcel.com.br/) 🇧🇷
+- [Repoflex Colchões](https://repoflexcolchoes.com.br/) 🇧🇷
+
+</br>
+
 ---
 
 # ▶️ [Demonstration video](https://youtu.be/KOHFeVqzuuU)
+
+</br>
 
 ## Getting Started
 

@@ -37,8 +37,7 @@ import 'aos/dist/aos.css';
 import NewSlider from './Components/NewCarousel/NewCarousel';
 import { LoadingPage } from '../Components/LoadingPage';
 import { PaymentWall } from '../Components/PaymentWall';
-import { jsonData } from './gaio';
-import { gaioData } from './gaio2';
+import { gaioData } from './gaio';
 
 function Main(): JSX.Element {
   useEffect(() => {
