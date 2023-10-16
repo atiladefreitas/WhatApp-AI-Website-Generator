@@ -64,7 +64,7 @@ After paying the BRL 30,00 fee, you will have access to the editing form, where 
 
 ---
 
-# ▶️ [Demonstration video](https://youtu.be/dL-QWQU9ABk)
+# ▶️ [Demonstration video](https://youtu.be/KOHFeVqzuuU)
 
 ## Getting Started
 
