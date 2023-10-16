@@ -4,7 +4,7 @@
 
 > FOR SECURITY REASONS AND TO PRESERVE THE COMPANY, THE .env WILL NOT BE MADE AVAILABLE
 
-> I prepared a _.json_ file with mock data so that I can run the project locally.
+> I prepared a _.json_ file with mock data so that you can run the project locally.
 
 ## About the project 🐦
 
@@ -95,18 +95,9 @@ cd Front && npm install
 npm run dev
 ```
 
-### Backend:
-
-#### Installation:
-
-```sh
-cd Api && npm install
-```
-
-#### Running:
-
-```sh
-npn run dev
+In the browser uses a route:
+```bash
+http://localhost:5173/code-presence
 ```
 
 ---
