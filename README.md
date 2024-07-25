@@ -1,7 +1,5 @@
 # Gaio Web - The **AI** Website Generator
 
-> THIS REPOSITORY WILL BE PRIVATED AFTER EVALUATION BY LAUNCHCODE
-
 > FOR SECURITY REASONS AND TO PRESERVE THE COMPANY, THE .env WILL NOT BE AVAILABLE
 
 > I prepared a file with mock data so that you can run the project locally.
